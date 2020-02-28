@@ -1,0 +1,43 @@
+<template>
+  <main class="container w-full md:max-w-xl mx-auto pl-8" v-if="$pagination">
+    <article v-for="page in $pagination.pages" class="mb-4">
+      <router-link class="group block p-4 rounded" :to="page.path">
+        <div class="flex justify-between text-sm">
+          <div>
+            <time :datetime="page.frontmatter.date">{{ time(page.frontmatter.date) }}</time>
+            <span class="ml-4 text-blue-600 text-sm">{{ page.frontmatter.category }}</span>
+          </div>
+          <div class="text-gray-600 flex">
+            <span>{{ page.readingTime.text }}</span>
+          </div>
+        </div>
+
+        <h2>
+          <span class="-ml-8 block absolute border border-gray-500 p-1 rounded">{{ page.frontmatter.language || 'en' }}</span>
+          <span class="text-2xl font-sans font-extrabold group-hover:underline">
+            {{ page.title }}
+          </span>
+        </h2>
+        <div class="flex">
+          <div class="text-lg" v-html="page.excerpt"></div>
+        </div>
+      </router-link>
+    </article>
+    <div>
+      <router-link v-if="$pagination.hasPrev" :to="$pagination.prevLink">Prev</router-link>
+      <router-link v-if="$pagination.hasNext" :to="$pagination.nextLink">Next</router-link>
+    </div>
+  </main>
+</template>
+
+<script>
+import format from 'date-fns/format';
+
+export default {
+  methods: {
+    time(val) {
+      return format(new Date(val), 'do MMMM yyyy');
+    }
+  }
+}
+</script>
