@@ -10,7 +10,7 @@ tags:
   - Quasar
   - Firebase
 category: WebDev
-tweet: https://twitter.com/razbakov/status/1216436864250535936
+tweet: https://twitter.com/razbakov/status/1233891527916691463
 ---
 
 **Google Analytics App + Web** is available when you enable **Google Firebase Analytics.**
@@ -42,24 +42,93 @@ Following [**recommended setup**](https://firebase.google.com/docs/analytics/get
 firebase.analytics().logEvent("notification_received");
 ```
 
-First, let's configure analytics and create an alias for it, so that you don't need to pollute each script with imports:
+Let's check versions of node:
+
+```bash
+node -v
+v12.14.1
+
+npm -v
+6.13.6
+
+vue -V
+@vue/cli 4.2.2
+```
+
+First, let's setup vue app:
+
+```bash
+npm install -g @vue/cli
+vue create myapp
+cd myapp
+npm install firebase --save
+```
+
+Your `package.json` should look like this:
+
+```json
+{
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "firebase": "^7.9.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
+
+```
+
+Go to the [Firebase console](https://console.firebase.google.com/) and setup new app with activated Analytics.
+
+Now let's add firebase with analytics and create an alias for it, so that you don't need to pollute each script with imports:
 
 ```js
+// main.js
+
+import Vue from 'vue'
+import App from './App.vue'
+
 import * as firebase from "firebase/app";
+import "firebase/firestore";
 import "firebase/analytics";
     
-// put this after firebase.initializeApp(...) 
-// make sure it executes before any logEvent
+const firebaseConfig = {
+  apiKey: '<your-api-key>',
+  authDomain: '<your-auth-domain>',
+  databaseURL: '<your-database-url>',
+  projectId: '<your-cloud-firestore-project>',
+  storageBucket: '<your-storage-bucket>',
+  messagingSenderId: '<your-sender-id>'
+  appId: '<your-app-id>',
+  measurementId: '<your-measurement-id>'
+};
+
+firebase.initializeApp(firebaseConfig);
 firebase.analytics();
-    
+
+Vue.config.productionTip = false
+
 // alias
 Vue.prototype.$analytics = firebase.analytics();
+
+new Vue({
+  render: h => h(App),
+}).$mount('#app')
+    
 ```
 
 Now you can track events in your component methods like this:
 
 ```js
-this.$analytics.logEvent("notification_received");
+    this.$analytics.logEvent("notification_received");
 ```
 
 ## How to track events?
@@ -77,12 +146,12 @@ Otherwise you create your own custom events, but those will have reduced capabil
 Page views expect different document titles for different pages. The easiest way to implement it is to use [vue-meta](https://vue-meta.nuxtjs.org/).
 
 ```js
-// add to each of your page components
-metaInfo() {
-  return {
-    title: "Screen Name"
-  };
-},
+    // add to each of your page components
+    metaInfo() {
+      return {
+        title: "Screen Name"
+      };
+    },
 ```
 
 Normally you would track page views on `router.afterEach`, but `vue-meta` changes document title later and it would record a previous page name on navigation instead of new one. So we have to trigger on right timing after title updates.
