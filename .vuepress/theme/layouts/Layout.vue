@@ -1,5 +1,5 @@
 <template>
-  <main class="container w-full md:max-w-xl mx-auto pl-8" v-if="$pagination">
+  <main class="container w-full md:max-w-xl mx-auto" v-if="$pagination">
     <article v-for="page in $pagination.pages" class="mb-4">
       <router-link class="group block p-4 rounded" :to="page.path">
         <div class="flex justify-between text-sm">
@@ -13,7 +13,6 @@
         </div>
 
         <h2>
-          <span class="-ml-8 block absolute border border-gray-500 p-1 rounded">{{ page.frontmatter.language || 'en' }}</span>
           <span class="text-2xl font-sans font-extrabold group-hover:underline">
             {{ page.title }}
           </span>
