@@ -16,11 +16,7 @@ Since I start university I was always frightened to spend any money. Sometimes t
 
 Year after year, from time to time I am looking for some budgeting app to set limits for my expenses. From all the apps I can highlight [Toshl](https://toshl.com/) and [Pennies](https://www.getpennies.com/).
 
-![Toshl](https://thepracticaldev.s3.amazonaws.com/i/7n91uiot3oqm2n9b3v3w.png)
-
 Premium Toshl provides many budgets. It worked for me only if I would use it on daily basis and do all the planning in the app.
-
-![Pennies](https://thepracticaldev.s3.amazonaws.com/i/b7nulxo63iheoocmszm3.png)
 
 Pennies is super simple and provides only budgets per day. Kinda what I needed, but it's available only for iPhone and I haven't find a worthy alternative for Android. Also there is no web version.
 
