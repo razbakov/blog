@@ -128,7 +128,7 @@ new Vue({
 Now you can track events in your component methods like this:
 
 ```js
-    this.$analytics.logEvent("notification_received");
+this.$analytics.logEvent("notification_received");
 ```
 
 ## How to track events?
@@ -146,12 +146,12 @@ Otherwise you create your own custom events, but those will have reduced capabil
 Page views expect different document titles for different pages. The easiest way to implement it is to use [vue-meta](https://vue-meta.nuxtjs.org/).
 
 ```js
-    // add to each of your page components
-    metaInfo() {
-      return {
-        title: "Screen Name"
-      };
-    },
+// add to each of your page components
+metaInfo() {
+  return {
+    title: "Screen Name"
+  };
+},
 ```
 
 Normally you would track page views on `router.afterEach`, but `vue-meta` changes document title later and it would record a previous page name on navigation instead of new one. So we have to trigger on right timing after title updates.
