@@ -5,6 +5,7 @@ permalink: /kakeibo
 date: 2020-01-06
 image: /img/kakeibo.png
 category: WebDev
+tweet: https://twitter.com/razbakov/status/1233894656846462976
 ---
 
 A story how my fear meets three Japanese concepts and produces an ultimate budgeting app.
