@@ -28,5 +28,8 @@
     "scripts": {
         "dev": "vuepress dev",
         "build": "vuepress build"
+    },
+    "dependencies": {
+        "vue-tweet-embed": "^2.4.0"
     }
 }

@@ -14,9 +14,11 @@
         </div>
       </div>
     </div>
-    <article class="container w-full md:max-w-xl mx-auto px-4 pb-8">
+    <article class="container w-full md:max-w-xl mx-auto px-4 pb-4">
       <Content/>
     </article>
+    <DiscussInTwitter />
+    <RecentPosts />
   </main>
 </template>
 

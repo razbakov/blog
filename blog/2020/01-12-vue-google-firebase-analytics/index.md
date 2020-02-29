@@ -9,6 +9,7 @@ tags:
   - Quasar
   - Firebase
 category: WebDev
+tweet: 1216436864250535936
 ---
 
 How to integrate Google Analytics App + Web and Firebase Analytics into Vue (Quasar)?
