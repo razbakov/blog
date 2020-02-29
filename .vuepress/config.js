@@ -36,6 +36,9 @@ module.exports = {
         },
       ]
     }],
+    ['feed', {
+      canonical_base: 'https://razbakov-blog.netlify.com',
+    }],
     '@vuepress/pwa',
   ],
   postcss: {
