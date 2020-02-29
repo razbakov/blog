@@ -1,5 +1,6 @@
 ---
 title: 6 Thinking Hats
+description: Tool for group discussion and individual thinking
 permalink: /6-hats
 date: 2018-05-16
 category: Creativity

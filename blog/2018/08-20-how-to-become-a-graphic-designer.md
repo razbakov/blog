@@ -2,16 +2,13 @@
 # redirect_from:
 # - /graphic-designer-reading-list
 title: How to Become a Graphic Designer
+description: List of helpfull articles to learn graphic design
 permalink: /how-to-become-a-graphic-designer
 date: 2018-08-20
 image: https://thepracticaldev.s3.amazonaws.com/i/z96uk4p7dwsx7nx9f3jm.png
 language: en
 category: Design
 ---
-
-List of helpfull articles to learn graphic design.
-
-<!-- more -->
 
 ## Career Planning
 

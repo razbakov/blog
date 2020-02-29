@@ -1,5 +1,6 @@
 ---
 title: How to improve foreign language
+description: The ultimate guide to become master of anything.
 permalink: /how-to-improve-foreign-language
 date: 2018-08-18
 language: en
@@ -9,12 +10,6 @@ category: Languages
 #   ru: /ru/как-улучшить-иностранный-язык
 #   es: /blog/por-que-espanol-12
 ---
-
-The ultimate guide to become master of anything.
-
-<!-- more -->
-
-![](./english-en.jpg)
 
 ## Dream
 

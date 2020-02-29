@@ -1,5 +1,6 @@
 ---
 title: Cuban Salsa History
+description: Salsa is one of the most dynamic and important musical phenomena of the 1900
 permalink: /dancing/salsa-cubana
 date: 2018-03-29
 category: Dancing

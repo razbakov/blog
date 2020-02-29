@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Фэнтези
+description: Небольшая проба пера
 permalink: /ru/fantasy
 date: 2018-05-22
 language: ru

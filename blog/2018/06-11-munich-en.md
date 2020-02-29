@@ -1,10 +1,10 @@
 ---
-title: Welcome to Munich
+title: Munich Guide
+description: What to do in Munich?
 permalink: /munich
 date: 2018-06-11
 language: en
 category: Traveling
-image: https://scontent.fmuc2-1.fna.fbcdn.net/v/t1.0-9/34047753_2085661518426136_2706242374765379584_n.jpg?_nc_cat=0&oh=66eb3e26b22740a97605ee2e38484738&oe=5B7E3B0A
 translations:
  ru: /ru/munich
 ---
@@ -52,10 +52,3 @@ translations:
 
 - Pimpernel
 - Palais
-
-## Join us
-
-- Channel [Munich Fun](https://t.me/MunichFun) with announcement of fun, interesting, international events
-- [Language exchange group](/es/latinos-ft-rusos-munich/) 
-
-P.S. [Why Telegram?](/telegram)

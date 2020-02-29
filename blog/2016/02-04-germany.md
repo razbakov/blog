@@ -1,5 +1,6 @@
 ---
 title: Неожиданная Бавария
+description: Небольшая заметка о переезде в Мюнхен из Харькова.
 permalink: /blog/germany
 date: 2016-02-04
 category: Traveling

@@ -1,17 +1,13 @@
 ---
-title: Добро пожаловать в Мюнхен
+title: Гайд по Мюнхену
+description: Полезные ссылки для новоприбывших
 permalink: /ru/munich
 date: 2018-06-11
 language: ru
 category: Traveling
-image: https://scontent.fmuc2-1.fna.fbcdn.net/v/t1.0-9/34047753_2085661518426136_2706242374765379584_n.jpg?_nc_cat=0&oh=66eb3e26b22740a97605ee2e38484738&oe=5B7E3B0A
 translations:
  en: /munich
 ---
-
-Полезные ссылки для новоприбывших.
-
-<!-- more -->
 
 ВКонтакте не так популярен среди русскоговорящего населения Мюнхена,
 много интересных мероприятий и информации можно найти в Facebook.

@@ -1,6 +1,7 @@
 ---
 title: Isla de los deseos
 permalink: /es/isla-de-los-deseos
+description: ¿Has notado esas condiciones cuando no tienes motivación?
 date: 2018-05-22
 language: es
 category: Philisophy
@@ -13,9 +14,9 @@ translations:
 
 ¿Has notado esas condiciones cuando no tienes motivación, ni deseos ni apatía por lo que te rodea? ¿Y hubo momentos en los que deseabas más y más, una sensación de fortaleza y un enorme potencial interno?
 
-<div class="embed-responsive embed-responsive-16by9 mb-3">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Istn1BiKTIc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<figure class="aspect-ratio">
+  <iframe src="https://www.youtube.com/embed/Istn1BiKTIc" frameborder="0" allowfullscreen></iframe>
+</figure>
 
 Propongo imaginar la vida como un viaje en el océano. Nadamos sobre el agua y debajo del agua, a veces nadamos hasta los islotes, a veces hasta el continente.
 

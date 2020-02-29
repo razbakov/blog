@@ -1,5 +1,6 @@
 ---
 title: Телеграм
+description: Причины использовать этот мессенджер
 permalink: /ru/telegram
 date: 2018-05-25
 language: ru

@@ -13,10 +13,6 @@ category: WebDev
 tweet: https://twitter.com/razbakov/status/1216436864250535936
 ---
 
-How to integrate Google Analytics App + Web and Firebase Analytics into Vue (Quasar)?
-
-<!-- more -->
-
 **Google Analytics App + Web** is available when you enable **Google Firebase Analytics.**
 
 It's Google Analytics v2 with a new representation of data, which focuses on users and events rather than sessions, user properties and event parameters rather than hit, session and user scoped definitions, on audiences rather than segments. It has a powerful live time view and DebugView. It's a [new way to unify app and website measurement in Google Analytics](https://www.blog.google/products/marketingplatform/analytics/new-way-unify-app-and-website-measurement-google-analytics/).

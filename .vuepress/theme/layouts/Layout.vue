@@ -18,11 +18,11 @@
           </span>
         </h2>
         <div class="flex">
-          <div class="text-lg" v-html="page.excerpt"></div>
+          <div class="text-lg">{{ page.description }}</div>
         </div>
       </router-link>
     </article>
-    <div>
+    <div class="mb-16 text-center markdown">
       <router-link v-if="$pagination.hasPrev" :to="$pagination.prevLink">Prev</router-link>
       <router-link v-if="$pagination.hasNext" :to="$pagination.nextLink">Next</router-link>
     </div>
