@@ -18,7 +18,7 @@
           </span>
         </h2>
         <div class="flex">
-          <div class="text-lg">{{ page.description }}</div>
+          <div class="text-lg">{{ page.frontmatter.description }}</div>
         </div>
       </router-link>
     </article>
