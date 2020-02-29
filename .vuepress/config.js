@@ -1,3 +1,5 @@
+const hostname = 'https://razbakov-blog.netlify.com'
+
 module.exports = {
   title: 'Aleksey Razbakov',
   description: 'Web Developer',
@@ -37,9 +39,12 @@ module.exports = {
       ]
     }],
     ['feed', {
-      canonical_base: 'https://razbakov-blog.netlify.com',
+      canonical_base: hostname,
     }],
     '@vuepress/pwa',
+    ['sitemap', {
+      hostname: hostname
+    }],
   ],
   postcss: {
     plugins: [
