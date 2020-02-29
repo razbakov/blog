@@ -1,6 +1,6 @@
 <template>
   <main class="markdown">
-    <div class="flex justify-center items-center h-64 bg-gray-200">
+    <div class="flex justify-center items-center h-64 bg-gray-200 mb-4">
       <div class="p-4 container">
         <h1>{{ $page.title }}</h1>
         <div class="flex justify-between text-sm">

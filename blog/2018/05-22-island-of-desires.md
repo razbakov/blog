@@ -14,9 +14,9 @@ translations:
 
 Have you noticed such conditions when you have no motivation, no desires and apathy to everything around you? And there were times when you want more and more, a sense of strength and a huge internal potential?
 
-<div class="embed-responsive embed-responsive-16by9 mb-3">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Istn1BiKTIc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<figure class="aspect-ratio">
+  <iframe src="https://www.youtube.com/embed/Istn1BiKTIc" frameborder="0" allowfullscreen></iframe>
+</figure>
 
 I propose to imagine life as a journey in the ocean. We swim above the water and under the water, sometimes swim to the islets, sometimes to the mainland.
 

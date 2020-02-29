@@ -1,6 +1,6 @@
 ---
-title: Гайд по Мюнхену
-description: Полезные ссылки для новоприбывших
+title: Мюнхен для новоприбывших
+description: Русские группы и мероприятия
 permalink: /ru/munich
 date: 2018-06-11
 language: ru
@@ -30,6 +30,6 @@ translations:
 - [Культурный центр Город](https://www.facebook.com/kulturzentrum.gorod/) осуществляет учебную и культурную работу, основанную на принципах мирного образования
 - [JunОst in Bayern](https://www.facebook.com/junostbayern/) - Ассоциация русскоязычной молодежи в Германии
 
-## Присоединяйся к нам
+## FAQ
 
-- [Афиша мероприятий Мюнхена](https://t.me/MunichFun). [Почему Telegram?](/ru/telegram)
+- [Жизнь Германии](https://ru-de.github.io/faq/)

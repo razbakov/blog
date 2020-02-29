@@ -1,5 +1,5 @@
 ---
-title: How to improve foreign language
+title: How to learn a language
 description: The ultimate guide to become master of anything.
 permalink: /how-to-improve-foreign-language
 date: 2018-08-18
