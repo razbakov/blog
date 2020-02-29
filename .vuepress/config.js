@@ -1,4 +1,12 @@
-const hostname = 'https://razbakov-blog.netlify.com'
+const hostname = 'https://razbakov-blog.netlify.com';
+
+const purgecss = require("@fullhuman/postcss-purgecss")({
+  // Specify the paths to all of the template files in your project
+  content: ["./.vuepress/theme/**/*.*", "./!(node_modules)/**/*.md", "./*.md"],
+
+  // Include any special characters you're using in this regular expression
+  defaultExtractor: content => content.match(/[A-Za-z0-9-_:/]+/g) || []
+});
 
 module.exports = {
   title: 'Aleksey Razbakov',
@@ -11,9 +19,9 @@ module.exports = {
       // { text: 'Contact', link: '/contact/' },
     ],
   },
-  plugins: [
-    'vuepress-plugin-reading-time',
-    ['@vuepress/blog', {
+  plugins: {
+    'vuepress-plugin-reading-time': true,
+    '@vuepress/blog': {
       directories: [
         {
           id: 'post',
@@ -37,22 +45,24 @@ module.exports = {
           }
         },
       ]
-    }],
-    ['feed', {
+    },
+    'feed': {
       canonical_base: hostname,
-    }],
-    '@vuepress/pwa',
-    ['sitemap', {
+    },
+    '@vuepress/pwa': true,
+    'sitemap': {
       hostname: hostname
-    }],
-    ['robots', {
+    },
+    'robots': {
       host: hostname
-    }]
-  ],
+    },
+    'seo': true
+  },
   postcss: {
     plugins: [
+      require("tailwindcss")("./tailwind.config.js"),
       require("autoprefixer"),
-      require("tailwindcss")("./tailwind.config.js")
+      ...(process.env.NODE_ENV === "production" ? [purgecss] : [])
     ]
   }
 }
