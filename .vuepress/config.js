@@ -45,6 +45,9 @@ module.exports = {
     ['sitemap', {
       hostname: hostname
     }],
+    ['robots', {
+      host: hostname
+    }]
   ],
   postcss: {
     plugins: [
