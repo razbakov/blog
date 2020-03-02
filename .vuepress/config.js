@@ -57,15 +57,15 @@ module.exports = {
             perPagePosts: 3
           }
         },
-      ]
+      ],
+      sitemap: {
+        hostname: hostname
+      },
     },
     'feed': {
       canonical_base: hostname,
     },
     '@vuepress/pwa': {},
-    'sitemap': {
-      hostname: hostname
-    },
     'robots': {
       host: hostname
     },
