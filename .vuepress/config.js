@@ -66,9 +66,6 @@ module.exports = {
       canonical_base: hostname,
     },
     '@vuepress/pwa': {},
-    'robots': {
-      host: hostname
-    },
     'seo': {}
   },
   postcss: {
