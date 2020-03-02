@@ -1,6 +1,6 @@
 <template>
-  <main class="markdown">
-    <div class="flex justify-center items-center h-64 bg-gray-200 mb-4">
+  <main>
+    <div class="markdown flex justify-center items-center h-64 bg-gray-200 mb-4">
       <div class="p-4 container">
         <h1>{{ $page.title }}</h1>
         <div class="flex justify-between text-sm">
@@ -14,11 +14,11 @@
         </div>
       </div>
     </div>
-    <article class="container w-full md:max-w-xl mx-auto px-4 pb-4">
+    <article class="markdown container w-full md:max-w-xl mx-auto px-4 pb-4">
       <Content/>
     </article>
     <DiscussInTwitter />
-    <RecentPosts />
+    <RecentPosts class="markdown"/>
   </main>
 </template>
 

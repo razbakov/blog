@@ -18,6 +18,7 @@ module.exports = {
       { text: 'About', link: '/about/' },
       // { text: 'Contact', link: '/contact/' },
     ],
+    hostname: hostname,
   },
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }],
@@ -32,7 +33,7 @@ module.exports = {
     ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
   ],
   plugins: {
-    'vuepress-plugin-reading-time': true,
+    'vuepress-plugin-reading-time': {},
     '@vuepress/blog': {
       directories: [
         {
@@ -61,14 +62,14 @@ module.exports = {
     'feed': {
       canonical_base: hostname,
     },
-    '@vuepress/pwa': true,
+    '@vuepress/pwa': {},
     'sitemap': {
       hostname: hostname
     },
     'robots': {
       host: hostname
     },
-    'seo': true
+    'seo': {}
   },
   postcss: {
     plugins: [
