@@ -1,5 +1,5 @@
 <template>
-  <div id="global-layout" class="font-sans leading-normal tracking-normal">
+  <div id="global-layout" class="font-sans leading-normal tracking-normal antialiased">
     
     <header>
       <nav class="flex items-center justify-between flex-wrap p-6">

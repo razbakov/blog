@@ -4,7 +4,7 @@ module.exports = {
     },
   },
   variants: {
-    textDecoration: ['group-hover']
+    textDecoration: ['hover']
   },
   plugins: [],
 }
