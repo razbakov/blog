@@ -2,6 +2,7 @@
 permalink: /about
 language: en
 layout: page
+qrcode: /qr.svg
 ---
 
 My profession and main hobby is web development, see my [Stackoverflow Story](https://stackoverflow.com/story/razbakov).
@@ -10,8 +11,10 @@ I am fan of JAM-stack, Serverless, Offline first, PWA, Vue.js, Firebase, GraphQL
 
 My projects:
 
-- [DanceCard](https://dancecard.id) - find dancer parties and partners.
-- [MoneyDo](https://pocket-budget.netlify.com/) - pocket budget assistant.
+- This blog on VuePress and TailwindCSS &mdash; [source code](https://github.com/razbakov/blog)
+- [DanceCard](https://dancecard.id/?utm_medium=razbakov) &mdash; find dancer parties and partners
+- [MoneyDo: Budget Planner](https://moneydo-budget-planner.netlify.com/?utm_medium=razbakov) &mdash; interactive guide for Kakeibo and 50/30/20 methods ([source code](https://github.com/razbakov/moneydo))
+- [MoneyDo: Pocket Budget](https://pocket-budget.netlify.com/?utm_medium=razbakov) &mdash; envelopes and expense tracker
 
 ## Timeline
 
