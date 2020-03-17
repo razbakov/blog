@@ -9,7 +9,11 @@ My profession and main hobby is web development, see my [Stackoverflow Story](ht
 
 I am fan of JAM-stack, Serverless, Offline first, PWA, Vue.js, Firebase, GraphQL.
 
-My projects:
+## Highlights
+
+<Tweet id="1238524835027918848" />
+
+## My projects
 
 - This blog on VuePress and TailwindCSS &mdash; [source code](https://github.com/razbakov/blog)
 - [DanceCard](https://dancecard.id/?utm_medium=razbakov) &mdash; find dancer parties and partners

@@ -15,21 +15,21 @@
       </div>
     </div>
     <article class="markdown container w-full md:max-w-xl mx-auto px-4 pb-4">
-      <Content/>
+      <Content />
     </article>
     <DiscussInTwitter />
-    <RecentPosts class="markdown"/>
+    <RecentPosts class="markdown" />
   </main>
 </template>
 
 <script>
-import format from 'date-fns/format';
+import format from "date-fns/format";
 
 export default {
   methods: {
     time(val) {
-      return format(new Date(val), 'do MMMM yyyy');
+      return format(new Date(val), "do MMMM yyyy");
     }
   }
-}
+};
 </script>
