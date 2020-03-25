@@ -17,7 +17,7 @@ Never played before? No problem! The moderator explains the rules before every G
 We gather online to play it via [Zoom](https://zoom.us/).
 
 <figure>
-  <img src="/img/mafia.png" alt="Mafia via Zoom" />
+  <img src="/img/mafia.jpg" alt="Mafia via Zoom" />
   <figcaption>During the game.</figcaption>
 </figure>
 
