@@ -35,7 +35,13 @@ The citizens win if they successfully eliminate all the mafia members. The mafia
 
 ::: details Official Rules
 
-[The Official Tournament Rules of the “Mafia” Game](https://docs.google.com/document/d/1C3pRDSGfTfbkygT0_vW1Z4tNYNWJ6cEdVMVo4mxBH3U/edit?usp=sharing)
+- [The Official Tournament Rules of the “Mafia” Game](https://docs.google.com/document/d/1C3pRDSGfTfbkygT0_vW1Z4tNYNWJ6cEdVMVo4mxBH3U/edit?usp=sharing)
+
+:::
+
+::: details Tips and Tricks
+
+- [Victory as a Black Player](https://docs.google.com/document/d/1awCv-XXEkf1KkoUZZdkFKe1wpnmohGCjkIaRAoV35CI/edit?usp=sharing)
 
 :::
 
