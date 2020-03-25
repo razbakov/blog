@@ -25,11 +25,11 @@ We gather online to play it via [Zoom](https://zoom.us/).
 
 ::: details Overview
 
-At the beginning of the game each player chooses a card with a destiny for the upcoming game. Mafia is played by two teams: the mafia and the citizens. Generally, a mafia member knows all of their teammates. A citizen only knows that he/she is a citizen and has no idea who is who in the game. Game requires a moderator who does not participate as a player.
+At the beginning of the game each player chooses a card with a destiny for the upcoming game.  Mafia is played by two teams: the mafia and the citizens.  Generally, a mafia member knows all of their teammates.  A citizen only knows that he/she is a citizen and has no idea who is who in the game.  The game requires a moderator who does not participate as a player.
 
-Members of the dreaded mafia have infiltrated our community and we, as concerned citizens, need to root them out. So every day we hold a town meeting and lynch someone we suspect of being a member of the mafia (it's not as bad as it seems: we vote first). Then, every night the mafia secretly meet and pick a citizen to kill; the citizens learn about it in the morning. There is a also an undercover sheriff floating around somewhere who can help the citizens.
+Members of the dreaded mafia have infiltrated our community and we, as concerned citizens, need to root them out.  So every day we hold a town meeting and lynch someone we suspect of being a member of the mafia (it's not as bad as it seems: we vote first).  Then, every night the mafia secretly meets and picks a citizen to kill; the citizens learn about it in the morning.  There is also an undercover sheriff floating around somewhere who can help the citizens.
 
-The citizens win if they successfully eliminate all the mafia members. The mafia wins when there are equal number of players between mafia and citizens teams.
+The citizens win if they successfully eliminate all the mafia members. The mafia wins when there is an equal number of players for the mafia and the citizen team.
 
 :::
 
@@ -53,15 +53,15 @@ One Game usually lasts about 30-50 minutes. You can play as many times as you wa
 
 #### I am busy today, how can I join you next time?
 
-Mafia game is not a single event. You can learn about the date of the next game by simply subscribing for our newsletter.
+The Mafia game is not a single event. You can learn about the date of the next game by simply subscribing for our newsletter.
 
 #### May I take friends with me?
 
-Sure! But please, ask your friends to register first. The point is, that we book a place for each game depending on the number of players. Don’t you really want your friends to watch only?
+Sure! But please, ask your friends to register first. The point is, that we book a place for each game depending on the number of players. You don’t really want your friends to only watch?
 
 #### How many people usually play?
 
-It is usually played by 10 people. If there are more people who want to play, we set an additional session.
+It is usually played by 10 people. If there are more people who want to play, we set up an additional session.
 
 #### Where do you play?
 
