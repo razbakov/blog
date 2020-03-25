@@ -21,15 +21,21 @@ We gather online to play it via [Zoom](https://zoom.us/).
   <figcaption>During the game.</figcaption>
 </figure>
 
-## Rules
+## Gameplay
 
-::: details General Rules
+::: details Overview
 
-At the beginning of the game each player chooses a card with a destiny for the upcoming game. In its simplest form Mafia is played by two teams: the mafia and the citizens. Generally, a mafia member knows all of their teammates. A citizen only knows that he/she is a citizen and has no idea who is who in the game. Game requires a moderator who does not participate as a player.
+At the beginning of the game each player chooses a card with a destiny for the upcoming game. Mafia is played by two teams: the mafia and the citizens. Generally, a mafia member knows all of their teammates. A citizen only knows that he/she is a citizen and has no idea who is who in the game. Game requires a moderator who does not participate as a player.
 
-The basic concept is that members of the dreaded mafia have infiltrated our community and we, as concerned citizens, need to root them out. So every day we hold a town meeting and lynch someone we suspect of being a member of the mafia (it's not as bad as it seems: we vote first). Then, every "night" the mafia secretly meet and pick a citizen to kill; the citizens learn about it in the morning. There is a also an undercover sheriff floating around somewhere who can help the citizens.
+Members of the dreaded mafia have infiltrated our community and we, as concerned citizens, need to root them out. So every day we hold a town meeting and lynch someone we suspect of being a member of the mafia (it's not as bad as it seems: we vote first). Then, every night the mafia secretly meet and pick a citizen to kill; the citizens learn about it in the morning. There is a also an undercover sheriff floating around somewhere who can help the citizens.
 
 The citizens win if they successfully eliminate all the mafia members. The mafia wins when there are equal number of players between mafia and citizens teams.
+
+:::
+
+::: details Official Rules
+
+[The Official Tournament Rules of the “Mafia” Game](https://docs.google.com/document/d/1C3pRDSGfTfbkygT0_vW1Z4tNYNWJ6cEdVMVo4mxBH3U/edit?usp=sharing)
 
 :::
 
