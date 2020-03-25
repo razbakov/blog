@@ -75,6 +75,12 @@ module.exports = {
       canonical_base: hostname
     },
     "@vuepress/pwa": {},
+    container: {
+      type: "details",
+      before: info =>
+        `<details class="custom-block details">${info ? `<summary>${info}</summary>` : ""}\n`,
+      after: () => "</details>\n"
+    },
     seo: {}
   },
   postcss: {
