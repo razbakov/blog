@@ -33,15 +33,7 @@ The citizens win if they successfully eliminate all the mafia members. The mafia
 
 :::
 
-## How to join?
-
-Sign up and you will get emails about next games.
-
-<cta target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeyon0uSGC9A0NJGnM7B_0HjWjdWfB9t34DPDx4zqI0gCB8pQ/viewform">Sign Up</cta>
-
-or drop me an email to [mafia@razbakov.com](mailto:mafia@razbakov.com)
-
-## Q & A
+::: details FAQ
 
 #### When does the event finish?
 
@@ -62,3 +54,13 @@ It is usually played by 10 people. If there are more people who want to play, we
 #### Where do you play?
 
 We gather online via Zoom meeting. We’ll send you the link by e-mail on the day of the event.
+
+:::
+
+## How to join?
+
+Sign up and you will get emails about next games.
+
+<cta target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeyon0uSGC9A0NJGnM7B_0HjWjdWfB9t34DPDx4zqI0gCB8pQ/viewform">Sign Up</cta>
+
+or drop me an email to [mafia@razbakov.com](mailto:mafia@razbakov.com)
