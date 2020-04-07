@@ -19,7 +19,6 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Blog", link: "/" },
-      { text: "Mafia", link: "/mafia/" },
       // { text: 'Projects', link: '/projects/' },
       { text: "About", link: "/about/" }
       // { text: 'Contact', link: '/contact/' },
