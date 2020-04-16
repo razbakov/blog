@@ -9,16 +9,19 @@ My profession and main hobby is web development, see my [Stackoverflow Story](ht
 
 I am fan of JAM-stack, Serverless, Offline first, PWA, Vue.js, Firebase, GraphQL.
 
-## Highlights
-
-<Tweet id="1238524835027918848" />
-
 ## My projects
 
-- This blog on VuePress and TailwindCSS &mdash; [source code](https://github.com/razbakov/blog)
+- [InstantFest](https://bit.ly/instantfest) &mdash; SAAS platform for organisers
+- [Guten Abend](http://gutenabend.netlify.app/) &mdash; quarantine club
+- [MoneyDo](https://moneydo-budget-planner.netlify.com/?utm_medium=razbakov) &mdash; budget planner
 - [DanceCard](https://dancecard.id/?utm_medium=razbakov) &mdash; find dancer parties and partners
-- [MoneyDo: Budget Planner](https://moneydo-budget-planner.netlify.com/?utm_medium=razbakov) &mdash; interactive guide for Kakeibo and 50/30/20 methods ([source code](https://github.com/razbakov/moneydo))
-- [MoneyDo: Pocket Budget](https://pocket-budget.netlify.com/?utm_medium=razbakov) &mdash; envelopes and expense tracker
+
+## I recommend
+
+- [Calendly](https://calendly.com/) &mdash; schedule meetings
+- [Stripe](https://stripe.com/en-de) &mdash; payment methods
+- [Notion](https://www.notion.so/) &mdash; notes and docs
+- [Zoom](https://zoom.us/) &mdash; remote meetings
 
 ## Timeline
 
