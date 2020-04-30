@@ -5,7 +5,6 @@ title: How to Become a Graphic Designer
 description: List of helpfull articles to learn graphic design
 permalink: /how-to-become-a-graphic-designer
 date: 2018-08-20
-image: https://thepracticaldev.s3.amazonaws.com/i/z96uk4p7dwsx7nx9f3jm.png
 language: en
 category: Design
 ---
@@ -21,9 +20,9 @@ First of all sit down and answer this questions:
 
 Following articles might be helpful to gather ideas for a list of todos as a way forward:
 
-* [The Ultimate Guide to Becoming A Designer Without Going To Design School](https://trydesignlab.com/blog/ultimate-guide-become-a-designer-without-going-design-school-part-one/)
-* [How to become a junior designer](https://www.creativebloq.com/career/become-junior-designer-7133617)
-* [How to find your first design job](https://www.creativebloq.com/career/become-junior-designer-7133617)
+- [The Ultimate Guide to Becoming A Designer Without Going To Design School](https://trydesignlab.com/blog/ultimate-guide-become-a-designer-without-going-design-school-part-one/)
+- [How to become a junior designer](https://www.creativebloq.com/career/become-junior-designer-7133617)
+- [How to find your first design job](https://www.creativebloq.com/career/become-junior-designer-7133617)
 
 ## Reading lists
 
@@ -31,8 +30,8 @@ Following articles might be helpful to gather ideas for a list of todos as a way
 
 ## Typography
 
-* [Harmonious Typography and Grids](https://medium.com/tradecraft-traction/harmonious-typography-and-grids-10da490a17d)
-* [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad)
+- [Harmonious Typography and Grids](https://medium.com/tradecraft-traction/harmonious-typography-and-grids-10da490a17d)
+- [Getting Typography Right in Digital Design](https://medium.springboard.com/the-guide-to-getting-typography-right-in-digital-design-bb61214ff3ad)
 
 ## Organisation
 
