@@ -7,7 +7,7 @@
           <span class="ml-4 text-blue-600 text-sm">{{ page.frontmatter.category }}</span>
         </div>
         <div class="text-gray-600 flex">
-          <span>{{ page.readingTime.text }}</span>
+          <span v-if="page.readingTime">{{ page.readingTime.text }}</span>
         </div>
       </div>
 
@@ -28,13 +28,13 @@
 </template>
 
 <script>
-import format from 'date-fns/format';
+import format from "date-fns/format";
 
 export default {
   methods: {
     time(val) {
-      return format(new Date(val), 'do MMMM yyyy');
+      return format(new Date(val), "do MMMM yyyy");
     }
   }
-}
+};
 </script>

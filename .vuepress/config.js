@@ -19,7 +19,8 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "Blog", link: "/" },
-      // { text: 'Projects', link: '/projects/' },
+      { text: "Portfolio", link: "/projects/" },
+      { text: "Gear", link: "/gear/" },
       { text: "About", link: "/about/" }
       // { text: 'Contact', link: '/contact/' },
     ],
@@ -48,9 +49,19 @@ module.exports = {
           id: "post",
           dirname: "blog",
           path: "/",
+          title: "Blog",
           pagination: {
             perPagePosts: 2
           }
+        },
+        {
+          id: "project",
+          dirname: "projects",
+          title: "Portfolio",
+          path: "/projects/",
+          layout: "IndexProjects",
+          itemLayout: "Project",
+          itemPermalink: "/projects/:slug"
         }
       ],
       frontmatters: [

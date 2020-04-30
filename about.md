@@ -9,25 +9,6 @@ My profession and main hobby is web development, see my [Stackoverflow Story](ht
 
 I am fan of JAM-stack, Serverless, Offline first, PWA, Vue.js, Firebase, GraphQL.
 
-## My projects
-
-- [InstantFest](https://bit.ly/instantfest) &mdash; SAAS platform for organisers
-- [Guten Abend](http://gutenabend.netlify.app/) &mdash; quarantine club
-- [MoneyDo](https://moneydo-budget-planner.netlify.com/?utm_medium=razbakov) &mdash; budget planner
-- [DanceCard](https://dancecard.id/?utm_medium=razbakov) &mdash; find dancer parties and partners
-
-## I recommend
-
-- [Calendly](https://calendly.com/) for schedule meetings
-- [Stripe](https://stripe.com/en-de) for payments
-- [Notion](https://www.notion.so/) for notes and docs
-- [Zoom](https://zoom.us/) for remote meetings
-- [Hackmd](https://hackmd.io/) for presentations
-- [Miro](https://miro.com/) for interactive workshops to collaborate with boards, sticky notes, comments, wireframes, etc.
-- [Pocket](https://app.getpocket.com/) to save article or video for later, organized by tags
-- [Unroll](https://unroll.me/) to cleanup email with automatic unsubscription with Unroll
-- [My Wiki about Web](https://www.notion.so/Web-1eec92e9d323425bb5cd358573a87867)
-
 ## Timeline
 
 - Speaker at Conference Meet Magento Germany in 2015
@@ -35,8 +16,3 @@ I am fan of JAM-stack, Serverless, Offline first, PWA, Vue.js, Firebase, GraphQL
 - Founder of [Mafia Game in Munich](https://www.facebook.com/mafclub.bdms/)
 - Moved to Munich in 2013
 - Member of [AIESEC Kharkiv](https://aiesec.org/)
-
-## Favorite newsletters
-
-- [Offline First](http://offlinefirst.org/)
-- [The Official Vue.js News](https://news.vuejs.org/)
