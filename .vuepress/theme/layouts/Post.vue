@@ -14,7 +14,7 @@
       <img class="mb-4" v-if="$page.frontmatter.image" :src="$page.frontmatter.image" />
       <Content />
     </article>
-    <DiscussInTwitter />
+    <vue-disqus />
     <RecentPosts class="markdown" />
   </main>
 </template>

@@ -68,6 +68,10 @@ module.exports = {
       ],
       sitemap: {
         hostname: hostname
+      },
+      comment: {
+        service: "disqus",
+        shortname: "razbakov"
       }
     },
     feed: {
