@@ -68,14 +68,13 @@ module.exports = {
       ],
       sitemap: {
         hostname: hostname
-      },
-      comment: {
-        service: "disqus",
-        shortname: "razbakov"
       }
     },
     feed: {
       canonical_base: hostname
+    },
+    "vuepress-plugin-disqus-comment": {
+      shortname: "razbakov"
     },
     "@vuepress/pwa": {
       serviceWorker: true,
