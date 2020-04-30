@@ -73,7 +73,10 @@ module.exports = {
     feed: {
       canonical_base: hostname
     },
-    "@vuepress/pwa": {},
+    "@vuepress/pwa": {
+      serviceWorker: true,
+      updatePopup: true
+    },
     container: {
       type: "details",
       before: info =>
