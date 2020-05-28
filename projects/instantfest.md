@@ -2,7 +2,7 @@
 title: InstantFest
 description: Platform for organisers
 icon: /img/instantfest.svg
-status: draft
+status: upcoming
 stack:
   - Nuxtjs
   - TailwindCSS
@@ -10,26 +10,37 @@ stack:
   - Netlify
 ---
 
-All-in-one tool for organisers:
+![](/img/instantfest.svg)
 
-- sport, yoga, fitness, dance studios
-- language courses, seminars
-- festivals and conferences
+**We are fabric of IT-solutions focused in dancing**.
 
-## **Features**
+Platform for organisers.
 
-- Website (responsive, optimised)
-- App (Progressive Web App + Android App + iPhone App)
+### For whom?
+
+- dance studios
+- dance teachers
+- dance festivals
+
+_Later maybe also for sport, yoga, fitness, language courses, seminars and conferences_
+
+### What?
+
+**Create your Solution Suite in 1 click:**
+
+- Responsive and optimised website
+- Apps in AppStore: Android App, iPhone App
+- Sign up forms
+- Dashboard with customer funnel with analytics
 - Payment system
 - Ticketing system
-- Dashboard with customer funnel with analytics
 - Event planner
 - Attendance tracker
-- Automated emails
-- Sign up forms
+- Automated emails (newsletters and follow ups)
+- Reviews and feedback system
 - Customer portal
 
-## Pricing
+## Home much does it cost?
 
 Simple pay-as-you-go pricing **2% of revenue + payment fee (Stripe)**
 

@@ -42,7 +42,8 @@ export default {
     },
     getBadgeColor(status) {
       const map = {
-        draft: "bg-gray-300",
+        upcoming: "bg-gray-300",
+        "in progress": "bg-orange-300",
         launched: "bg-green-300",
         archived: "bg-gray-300",
         alumni: "bg-green-300"
