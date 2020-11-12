@@ -1,5 +1,5 @@
 ---
-title: InstantFest
+title: InstaFest
 description: Platform for organisers
 icon: /img/instantfest.svg
 status: upcoming
