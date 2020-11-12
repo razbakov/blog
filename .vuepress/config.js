@@ -22,7 +22,6 @@ module.exports = {
       { text: "Portfolio", link: "/projects/" },
       { text: "Gear", link: "/gear/" },
       { text: "About", link: "/about/" }
-      // { text: 'Contact', link: '/contact/' },
     ],
     hostname: hostname
   },
