@@ -8,7 +8,7 @@ layout: page
 
 - [Start-up Wiki](https://www.notion.so/Web-1eec92e9d323425bb5cd358573a87867)
 
-## Apps
+## Editors
 
 - [Blender](https://www.blender.org/) – free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) – free video editing, color correction, visual effects, motion graphics and audio post
@@ -30,10 +30,16 @@ layout: page
 
 ## Commerce
 
+- [GumRoad](https://gumroad.com/) to sell products
 - [Stripe](https://stripe.com/en-de) for payments
+- [Netlify](https://netlify.com/) as free hosting
+- [NameCheap](https://www.namecheap.com/) to buy cheap domains
+- [Google Firestore](https://firebase.google.com/products/firestore) as free cloud database
 
-## Lifehacks
+## Everyday
 
+- [Telegram](https://telegram.org/) as primary messenger
+- [MoneyDo](https://moneydo.vip/) to plan monthly budget and track expenses
 - [Pocket](https://app.getpocket.com/) to save article or video for later, organized by tags
 - [Unroll](https://unroll.me/) to cleanup email with automatic unsubscription with Unroll
 
