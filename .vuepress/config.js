@@ -15,7 +15,7 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
 
 module.exports = {
   title: "Aleksey Razbakov",
-  description: "Web Developer",
+  description: "Indie Hacker. Programmer. Dancer.",
   themeConfig: {
     nav: [
       { text: "Blog", link: "/" },
