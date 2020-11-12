@@ -6,7 +6,7 @@ layout: page
 
 ## Knowledge Base
 
-- [WebDev Wiki](https://www.notion.so/Web-1eec92e9d323425bb5cd358573a87867)
+- [Start-up Wiki](https://www.notion.so/Web-1eec92e9d323425bb5cd358573a87867)
 
 ## Gear
 
