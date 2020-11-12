@@ -10,7 +10,7 @@ layout: page
 
 ## Apps
 
-- [Blender] – free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
+- [Blender](https://www.blender.org/) – free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, video editing and 2D animation pipeline.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) – free video editing, color correction, visual effects, motion graphics and audio post
 - [Figma](https://www.figma.com/) – online design tool with collaboration used by professionals
 - [Canva](https://www.canva.com/) – free social media templates and ideas
