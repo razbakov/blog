@@ -15,7 +15,7 @@
             >
               {{ $site.title }}
             </router-link>
-            <div class="flex">
+            <div class="flex flex-wrap">
               <p>{{ $site.description }}</p>
               <a
                 class="ml-2 mt-1 w-4 h-4"
@@ -42,8 +42,8 @@
           <li v-for="item in $themeConfig.nav">
             <router-link class="block px-4 py-2" :to="item.link" exact>{{ item.text }}</router-link>
           </li>
-          <li class="block px-4 py-2">
-            <a class="px-4 py-2" href="https://calendly.com/razbakov/30min">Contact</a>
+          <li>
+            <a class="block px-4 py-2" href="https://calendly.com/razbakov/30min">Contact</a>
           </li>
         </ul>
       </nav>

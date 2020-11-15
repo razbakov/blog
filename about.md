@@ -5,9 +5,17 @@ layout: page
 qrcode: /qr.svg
 ---
 
-My profession and main hobby is web development, see my [Stackoverflow Story](https://stackoverflow.com/story/razbakov).
+Full Stack Web Developer since 2009.
 
-I am fan of JAM-stack, Serverless, Offline first, PWA, Vue.js, Firebase, GraphQL.
+Fan of JAMstack, Serverless, Offline first, PWA, Vue.js, Firebase, GraphQL.
+
+<Cta href="https://razbakov.com/cv">Download CV</Cta>
+
+## Social Media
+
+- [Github](https://github.com/razbakov)
+- [Twitter](https://twitter.com/razbakov)
+- [Stackoverflow](https://stackoverflow.com/story/razbakov)
 
 ## Timeline
 

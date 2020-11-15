@@ -15,11 +15,11 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
 
 module.exports = {
   title: "Aleksey Razbakov",
-  description: "Indie Hacker. Programmer. Salsa Dancer.",
+  description: "Indie Hacker. Web Developer. Salsa Dancer.",
   themeConfig: {
     nav: [
       { text: "Blog", link: "/" },
-      { text: "Portfolio", link: "/projects/" },
+      { text: "Projects", link: "/projects/" },
       { text: "Gear", link: "/gear/" },
       { text: "About", link: "/about/" }
     ],
