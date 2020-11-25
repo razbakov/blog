@@ -20,7 +20,7 @@ module.exports = {
     nav: [
       { text: "Blog", link: "/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Gear", link: "/gear/" },
+      { text: "Uses", link: "/uses/" },
       { text: "About", link: "/about/" }
     ],
     hostname: hostname
