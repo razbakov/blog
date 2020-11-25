@@ -1,5 +1,5 @@
 ---
-permalink: /gear
+permalink: /uses
 language: en
 layout: page
 ---
