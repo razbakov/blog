@@ -43,7 +43,7 @@
             <router-link class="block px-4 py-2" :to="item.link" exact>{{ item.text }}</router-link>
           </li>
           <li>
-            <a class="block px-4 py-2" href="https://calendly.com/razbakov/30min">Contact</a>
+            <a class="block px-4 py-2" href="https://calendly.com/razbakov">Book a Call</a>
           </li>
         </ul>
       </nav>
