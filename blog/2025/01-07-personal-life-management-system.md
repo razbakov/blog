@@ -4,6 +4,8 @@ description: "How I built a personal life management system using Git and Cursor
 date: 2025-01-07
 permalink: /personal-life-management-system
 category: Productivity
+tags: [productivity, git, cursor, ai, personal development, life management]
+image: /img/lifeos.webp
 ---
 
 In today's fast-paced world, managing personal growth and life goals can be overwhelming. I've recently implemented a systematic approach to personal development using Git and markdown files. Here's how and why I built this system.
