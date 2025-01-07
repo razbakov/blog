@@ -3,9 +3,12 @@ title: "Your Personal Matrix: Building an AI-Powered Life Operating System"
 description: "How I built a personal life management system using Git and Cursor AI"
 date: 2025-01-07
 permalink: /personal-life-management-system
+category: Productivity
 ---
 
 In today's fast-paced world, managing personal growth and life goals can be overwhelming. I've recently implemented a systematic approach to personal development using Git and markdown files. Here's how and why I built this system.
+
+> Check out the project on GitHub: [life-os](https://github.com/razbakov/life-os)
 
 ## The Problem
 
